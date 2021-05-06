@@ -1,5 +1,5 @@
 # FastFingersBot
-Selenium bases bot to kick ass on the dactylo test from fastfingers : https://10fastfingers.com/typing-test/french
+Selenium based bot to kick ass on the dactylo test from fastfingers : https://10fastfingers.com/typing-test/french
 
 ## Disclaimer 
 
